@@ -37,14 +37,6 @@ namespace Qtn111 {
 	private: System::Windows::Forms::Label^ label1;
 	private: System::Windows::Forms::Label^ label2;
 
-	protected:
-
-
-
-	protected:
-
-	protected:
-
 	private:
 		/// <summary>
 		/// Required designer variable.
